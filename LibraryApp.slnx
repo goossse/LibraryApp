@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LibraryApp.Tests/LibraryApp.Tests.csproj" Id="05317abb-2a71-4e8c-ac32-52c2f0c4ee26">
+    <BuildDependency Project="LibraryApp/LibraryApp.csproj" />
+  </Project>
+  <Project Path="LibraryApp/LibraryApp.csproj" Id="1f4d26bd-ff39-4411-b848-aee5be797179" />
+</Solution>
